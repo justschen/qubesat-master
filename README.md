@@ -1,1 +1,1 @@
-# qubesat
+# STAC Qubesat Pycube Software
